@@ -1,0 +1,2 @@
+এখানে profile.jpg নামে আপনার নিজের ছবি রাখুন।
+projects folder-এ restaurant.jpg, business.jpg, ecommerce.jpg এবং landing-page.jpg নামে আলাদা project screenshot রাখুন।
